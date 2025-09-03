@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digital-skills-quiz/static/css/main.6ef54fbc.css",
+    "main.js": "/digital-skills-quiz/static/js/main.3401a6bb.js",
+    "static/js/453.2064ec55.chunk.js": "/digital-skills-quiz/static/js/453.2064ec55.chunk.js",
+    "index.html": "/digital-skills-quiz/index.html",
+    "main.6ef54fbc.css.map": "/digital-skills-quiz/static/css/main.6ef54fbc.css.map",
+    "main.3401a6bb.js.map": "/digital-skills-quiz/static/js/main.3401a6bb.js.map",
+    "453.2064ec55.chunk.js.map": "/digital-skills-quiz/static/js/453.2064ec55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef54fbc.css",
+    "static/js/main.3401a6bb.js"
+  ]
+}
